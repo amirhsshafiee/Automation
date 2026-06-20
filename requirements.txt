@@ -1,0 +1,7 @@
+pandas
+pymysql
+gspread
+gspread-dataframe
+google-auth
+google-auth-oauthlib
+persiantools
